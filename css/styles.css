@@ -42,6 +42,23 @@ img {
   color: #000059;
 }
 
+.contact-input {
+  color:#3c3c3c;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  line-height: 22px;
+  background-color: #fbfbfb;
+  padding: 13px 13px 13px 13px;
+  margin-bottom: 10px;
+  width:100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 3px solid rgba(0,0,0,0);
+}
+
 .skills-list {
   color: #000059;
   list-style-type: square;
@@ -94,6 +111,23 @@ img {
   color: #000059;
 }
 
+.contact-input {
+  color:#3c3c3c;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  line-height: 22px;
+  background-color: #fbfbfb;
+  padding: 13px 13px 13px 13px;
+  margin-bottom: 10px;
+  width:100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 3px solid rgba(0,0,0,0);
+}
+
 .skills-list {
   color: #000059;
   list-style-type: square;
@@ -137,6 +171,23 @@ img {
   /* margin-right: 20%; */
   line-height: 2em;
   color: #000059;
+}
+
+.contact-input {
+  color:#3c3c3c;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  line-height: 22px;
+  background-color: #fbfbfb;
+  padding: 13px 13px 13px 13px;
+  margin-bottom: 10px;
+  width:100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 3px solid rgba(0,0,0,0);
 }
 
 .bot-p {
@@ -203,6 +254,24 @@ img {
   color: #000059;
 }
 
+.contact-input {
+  color:#3c3c3c;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  line-height: 22px;
+  background-color: #fbfbfb;
+  padding: 13px 13px 13px 13px;
+  margin-bottom: 10px;
+  width:100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 3px solid rgba(0,0,0,0);
+}
+
+
 .skills-list {
   color: #000059;
   list-style-type: square;
@@ -245,6 +314,23 @@ img {
  /* margin-right: 20%;*/
   line-height: 2em;
   color: #000059;
+}
+
+.contact-input {
+  color:#3c3c3c;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  line-height: 22px;
+  background-color: #fbfbfb;
+  padding: 13px 13px 13px 13px;
+  margin-bottom: 10px;
+  width:100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 3px solid rgba(0,0,0,0);
 }
 
 .bot-p {
