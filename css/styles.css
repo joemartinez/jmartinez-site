@@ -34,6 +34,11 @@ img {
   color: #000059;
 }
 
+.top-c {
+  text-alighn: center;
+  color: #000059;
+}
+
 .bot-p {
   text-align: center;
   margin-top: 3%;
@@ -100,6 +105,11 @@ img {
   /* margin-left: 30%; */
   /* margin-right: 20%; */
   line-height: 2em;
+  color: #000059;
+}
+
+.top-c {
+  text-align: center;
   color: #000059;
 }
 
@@ -174,6 +184,11 @@ img {
   color: #000059;
 }
 
+.top-c {
+  text-align: center;
+  color: #000059;
+}
+
 .contact-input {
   color:#3c3c3c;
   font-family: Helvetica, Arial, sans-serif;
@@ -244,8 +259,13 @@ img {
   color: #000059;
 }
 
+.top-c {
+  text-align: center;
+  color: #000059;
+}
+
 .bot-p {
-  text-align: left;
+  text-align: center;
   margin-top: 3%;
   margin-left: 45%;
   line-height: 2em;
@@ -306,7 +326,7 @@ img {
 }
 
 .top-p {
-  text-align: left;
+  text-align: center;
   margin-top: 5%;
   margin-left: 30%;
  /* margin-right: 20%;*/
@@ -314,6 +334,10 @@ img {
   color: #000059;
 }
 
+.top-c {
+  text-align: center;
+  color: #000059;
+}
 .contact-input {
   color:#3c3c3c;
   font-family: Helvetica, Arial, sans-serif;
@@ -332,7 +356,7 @@ img {
 }
 
 .bot-p {
-  text-align: left;
+  text-align: center;
   margin-top: 3%;
   margin-left: 30%;
   line-height: 2em;
@@ -343,18 +367,31 @@ img {
 .skills-list {
   color: #000059;
   list-style-type: square;
-  text-align: right;
+  text-align: center;
   margin-top: 3%;
   margin-left: 5%;
 }
 
 .skills-list li {
-  list-style-type: square;
-  text-align: left;
+  list-style-type: none;
+  text-align: center;
   margin-left: 30%;
   padding: 10px;
   font-weight: bold;
 }
+
+
+.resume-list {
+	list-style-type: square;
+	text-align: center;
+	float: center;
+}
+.resume-list dr {
+	list-style-type: none;
+	text-align: center;
+	float: center;
+	  }
+
 }
 
 
